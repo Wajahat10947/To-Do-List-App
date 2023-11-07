@@ -53,19 +53,19 @@ function editList(i) {
 
 
 
-    // let updatedValue = prompt("Enter Update Value");
-    // if (updatedValue === "") {
-    //     alert("Please Input Some Value")
-    // }
+//     let updatedValue = prompt("Enter Update Value");
+//     if (updatedValue === "") {
+//         alert("Please Input Some Value")
+//     }
 
-    // else{
+//     else{
 
-    //     updatedValue = prompt("Enter Update Value");
-    //     list.innerHTML = "";
-    //     listArray.splice(i , 1 , updatedValue);
-    //     renderList();
+//         updatedValue = prompt("Enter Update Value");
+//         list.innerHTML = "";
+//         listArray.splice(i , 1 , updatedValue);
+//         renderList();
 
-    // }
+//   }
 
     let updatedValue = prompt("Enter Update Value");
     if (updatedValue !== "") {
